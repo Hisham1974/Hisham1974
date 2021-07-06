@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alex 
+- 👋 Hi, I’m Hisham
 - 👀 I’m interested in programing 
 - 🌱 I’m currently learning  Python
 - 💞️ I’m looking to collaborate on ...
